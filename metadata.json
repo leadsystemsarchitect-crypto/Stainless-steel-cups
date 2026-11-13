@@ -1,0 +1,10 @@
+{
+  "name": "Material Flask & Hyperlocal Alpine Quiz",
+  "description": "E-commerce landing page with immersive WebGL, thermal comparison, and Gemini-powered Hyperlocal Quiz using Google Maps Grounding",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
